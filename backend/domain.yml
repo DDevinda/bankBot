@@ -1,0 +1,82 @@
+intents:
+  - greet
+  - thank
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - request_loan:
+      use_entities: false
+  - chitchat:
+      use_entities: false
+  - ask_interest_rate:
+      use_entities: false
+
+actions:
+- utter_greet
+- utter_cheer_up
+- utter_did_that_help
+- utter_happy
+- utter_goodbye
+- utter_slots_values
+- utter_slots_values_interests
+- action_reset_slot
+
+entities:
+- type
+- amount
+- time
+
+slots:
+  type:
+    type: unfeaturized
+    auto_fill: false
+  amount:
+    type: unfeaturized
+    auto_fill: false
+  time:
+    type: unfeaturized
+    auto_fill: false
+
+templates:
+  utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_slots_values:
+    - text: "You want:\n
+             - Loan Type: {type}\n
+             - Loan details: Come, apply for a housing loan through Sri Lanka’s most flexible housing loan"
+
+  utter_slots_values_interests:
+    - text: "You want:\n
+             - Loan Type: {type}\n
+             - Loan amount: {amount}\n
+             - Loan time period: {time}\n
+             - Loan details: Come, apply for a housing loan through Sri Lanka’s most flexible {type} loan"
+
+  utter_ask_type:
+    - text: "what type of loan?"
+
+  utter_ask_amount:
+    - text: "How much you you want for your loan?"
+
+  utter_ask_time:
+    - text: "What is the time period in years?"
+
+forms:
+  - loan_form
+  - interestRate_form

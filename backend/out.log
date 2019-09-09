@@ -1,0 +1,201 @@
+2019-08-07 12:11:35,624 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-07 12:28:46,916 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-07 14:41:18,363 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-07 14:41:51,815 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-07 14:43:16,684 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-07 14:47:07,373 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:47:09,787 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:47:17,025 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:47:30,206 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:47:30,870 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:47:37,446 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:47:50,821 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:47:50,833 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:47:50,845 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:47:50,857 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:47:50,870 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:47:50,883 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:47:50,893 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:47:50,907 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:47:50,919 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:47:50,929 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:47:50,930 [WARNI]  Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+2019-08-07 14:49:15,664 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:49:29,904 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:49:29,920 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:49:29,932 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:49:29,944 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:49:29,955 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:49:29,966 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:49:29,978 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:49:29,989 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:49:30,000 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:49:30,010 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:49:30,010 [WARNI]  Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+2019-08-07 14:49:39,033 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:49:48,054 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:49:57,422 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:49:57,436 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:49:57,451 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:49:57,464 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:49:57,476 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:49:57,488 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:49:57,500 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:49:57,511 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:49:57,523 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:49:57,535 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:49:57,535 [WARNI]  Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+2019-08-07 14:50:08,849 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:50:15,380 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:50:24,013 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:50:24,026 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:50:24,039 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:50:24,052 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:50:24,064 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:50:24,076 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:50:24,089 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:50:24,101 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:50:24,113 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 14:50:24,124 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 14:50:24,125 [WARNI]  Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+2019-08-07 14:51:49,776 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-07 15:14:07,987 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:14:23,090 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:15:31,913 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:15:43,890 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:15:49,225 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:16:04,389 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:17:32,754 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:22:32,783 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:24:43,410 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:38:52,797 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:39:38,759 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:40:27,205 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:41:00,185 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:41:14,274 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:41:57,438 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:42:05,576 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:42:05,590 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 15:42:05,603 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:42:05,617 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 15:42:05,631 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:42:05,644 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 15:42:05,656 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:42:05,669 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 15:42:05,680 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-07 15:42:05,692 [ERROR]  Failed to extract slot amount with action loan_form
+2019-08-07 15:42:05,692 [WARNI]  Circuit breaker tripped. Stopped predicting more actions for sender 'default'
+2019-08-07 15:42:44,134 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-07 16:51:16,734 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-07 17:16:31,211 [ERROR]  An exception occured while handling user message 'None'.
+Traceback (most recent call last):
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/channels/channel.py", line 458, in receive
+    text, collector, sender_id, input_channel=input_channel
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/channels/channel.py", line 65, in handler
+    await app.agent.handle_message(*args, **kwargs)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/agent.py", line 478, in handle_message
+    return await processor.handle_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 80, in handle_message
+    tracker = await self.log_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 128, in log_message
+    await self._handle_message_with_tracker(message, tracker)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 296, in _handle_message_with_tracker
+    parse_data = await self._parse_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 274, in _parse_message
+    if message.text.startswith(INTENT_MESSAGE_PREFIX):
+AttributeError: 'NoneType' object has no attribute 'startswith'
+2019-08-07 17:16:45,278 [ERROR]  An exception occured while handling user message 'None'.
+Traceback (most recent call last):
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/channels/channel.py", line 458, in receive
+    text, collector, sender_id, input_channel=input_channel
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/channels/channel.py", line 65, in handler
+    await app.agent.handle_message(*args, **kwargs)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/agent.py", line 478, in handle_message
+    return await processor.handle_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 80, in handle_message
+    tracker = await self.log_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 128, in log_message
+    await self._handle_message_with_tracker(message, tracker)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 296, in _handle_message_with_tracker
+    parse_data = await self._parse_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 274, in _parse_message
+    if message.text.startswith(INTENT_MESSAGE_PREFIX):
+AttributeError: 'NoneType' object has no attribute 'startswith'
+2019-08-07 17:16:48,698 [ERROR]  An exception occured while handling user message 'None'.
+Traceback (most recent call last):
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/channels/channel.py", line 458, in receive
+    text, collector, sender_id, input_channel=input_channel
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/channels/channel.py", line 65, in handler
+    await app.agent.handle_message(*args, **kwargs)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/agent.py", line 478, in handle_message
+    return await processor.handle_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 80, in handle_message
+    tracker = await self.log_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 128, in log_message
+    await self._handle_message_with_tracker(message, tracker)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 296, in _handle_message_with_tracker
+    parse_data = await self._parse_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 274, in _parse_message
+    if message.text.startswith(INTENT_MESSAGE_PREFIX):
+AttributeError: 'NoneType' object has no attribute 'startswith'
+2019-08-07 17:16:50,941 [ERROR]  An exception occured while handling user message 'None'.
+Traceback (most recent call last):
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/channels/channel.py", line 458, in receive
+    text, collector, sender_id, input_channel=input_channel
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/channels/channel.py", line 65, in handler
+    await app.agent.handle_message(*args, **kwargs)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/agent.py", line 478, in handle_message
+    return await processor.handle_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 80, in handle_message
+    tracker = await self.log_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 128, in log_message
+    await self._handle_message_with_tracker(message, tracker)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 296, in _handle_message_with_tracker
+    parse_data = await self._parse_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 274, in _parse_message
+    if message.text.startswith(INTENT_MESSAGE_PREFIX):
+AttributeError: 'NoneType' object has no attribute 'startswith'
+2019-08-07 17:16:52,714 [ERROR]  An exception occured while handling user message 'None'.
+Traceback (most recent call last):
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/channels/channel.py", line 458, in receive
+    text, collector, sender_id, input_channel=input_channel
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/channels/channel.py", line 65, in handler
+    await app.agent.handle_message(*args, **kwargs)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/agent.py", line 478, in handle_message
+    return await processor.handle_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 80, in handle_message
+    tracker = await self.log_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 128, in log_message
+    await self._handle_message_with_tracker(message, tracker)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 296, in _handle_message_with_tracker
+    parse_data = await self._parse_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 274, in _parse_message
+    if message.text.startswith(INTENT_MESSAGE_PREFIX):
+AttributeError: 'NoneType' object has no attribute 'startswith'
+2019-08-07 17:17:48,273 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-07 17:20:23,695 [ERROR]  An exception occured while handling user message 'None'.
+Traceback (most recent call last):
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/channels/channel.py", line 458, in receive
+    text, collector, sender_id, input_channel=input_channel
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/channels/channel.py", line 65, in handler
+    await app.agent.handle_message(*args, **kwargs)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/agent.py", line 478, in handle_message
+    return await processor.handle_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 80, in handle_message
+    tracker = await self.log_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 128, in log_message
+    await self._handle_message_with_tracker(message, tracker)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 296, in _handle_message_with_tracker
+    parse_data = await self._parse_message(message)
+  File "/home/dushan/.local/lib/python3.6/site-packages/rasa/core/processor.py", line 274, in _parse_message
+    if message.text.startswith(INTENT_MESSAGE_PREFIX):
+AttributeError: 'NoneType' object has no attribute 'startswith'
+2019-08-07 17:33:26,018 [ERROR]  Failed to extract slot type with action loan_form
+2019-08-07 17:33:58,053 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-08 11:30:43,744 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-08 11:31:51,674 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-08 11:43:32,193 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-08 11:45:42,499 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-08 11:47:39,123 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-08 11:52:37,509 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-08 12:03:18,851 [INFO ]  Starting Rasa server on http://localhost:5005

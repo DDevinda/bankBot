@@ -1,0 +1,211 @@
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+
+## intent:mood_great
+- perfect
+- very good
+- great
+- amazing
+- wonderful
+- I am feeling very good
+- I am great
+- I'm good
+
+## intent:mood_unhappy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+
+## intent:request_loan
+- i want to get a loan
+- i want a loan
+- i want loan
+- i wanna get a loan
+- i need a loan
+- i want a [personal](type) loan
+- i want a [housing](type) loan
+- i need a [business](type) loan
+- i want a [business](type) loan
+- need a loan
+- need a [personal](type) loan
+- want a load
+- want a [housing](type) loan
+- want a [business](type) loan
+- i want to get a [personal](type) loan
+- i want to get a [business](type) loan
+- i want to get a [housing](type) loan
+
+## intent:ask_interest_rate
+- what is the interest rate 
+- what is the interest rate ?
+- the interest rate?
+- what is your interest rate?
+- what interest rates do you have?
+- what are the interest rates?
+- what is the repayment value for 500000[amount]
+- what is the repayment value for [fivehundredthousand](amount:500000)
+- for [fivehundredthousand](amount:500000) what is the interest rate ?
+- interest rate for [fivehundredthousand](amount:500000) 
+- interest rate for [thirtyfivehundredthousand](amount:3500000) 
+- interest rate for [threehundredthousand](amount:300000) 
+- what is the repayment value for [threehundredthousand](amount:300000) 
+- interest rate for [300000](amount)
+- interest rate for [400000](amount)
+- interest rate for [500000](amount)
+- interest rate for [600000](amount)
+- interest rate for [700000](amount)
+- interest rate for [800000](amount)
+- interest rate for [900000](amount)
+- interest rate for [1000000](amount)
+- interest rate for [100000](amount)
+- interest rate for [70000](amount)
+- interest rate for [50000](amount)
+- what is the repayment value for [500000](amount)
+- what is the repayment value for [100000](amount)
+- what is the repayment value for [700000](amount)
+- what is the repayment value for [800000](amount)
+- what is the repayment value for [600000](amount)
+- what is the repayment value for [900000](amount)
+
+## intent:inform
+- [personal](type) loan
+- [personal](type)
+- [business](type)
+- [housing](type)
+- [personal](type)
+- i want a [personal](type) loan
+- i want a [housing](type) loan
+- i need a [business](type) loan
+- i want a [business](type) loan
+- a [housing](type) loan
+- a [business](type) loan
+- a [personal](type) loan
+- for [five](time:5) years
+- for [four](time:4) years
+- for [three](time:3) years
+- [four](time:4) years
+- [two](time:2) years
+- [three](time:3) years
+- [one](time:1) year
+- [three](time:3) years
+- time period is [four](time:4) years
+- time period is [five](time:5) years
+- i want [fivehundredthousand](amount:500000)
+- [fivehundredthousand](amount:500000) rupees
+- [fivehundredthousand](amount:500000) rs
+- [threehundredthousand](amount:300000)
+- i want [threehundredthousand](amount:300000)
+- i want [twohundredthousand](amount:200000)
+- i want [twentyfivehundredthousand](amount:2500000)
+- i want [fiftyfivehundredthousand](amount:5500000)
+- i want [900000](amount) rupees
+- i want [500000](amount) rupees
+- i want [500000](amount)
+- i want [350000](amount)
+- i want [1000000](amount)
+- i want [2000000](amount)
+- i want [200000](amount)
+- i want [4000000](amount)
+- i want [5000000](amount)
+- i want [7000000](amount)
+- my amount is [750000](amount)
+- my amount is [500000](amount)
+- my amount is [300000](amount)
+
+## intent:chitchat
+- can you share your boss with me?
+- i want to get to know your owner
+- i want to know the company which designed you
+- i want to know the company which generated you
+- i want to know the company which invented you
+- i want to know who invented you
+- May I ask who invented you?
+- please tell me the company who created you
+- please tell me who created you
+- tell me more about your creators
+- tell me more about your founders
+- Ahoy matey how are you?
+- are you alright
+- are you having a good day
+- Are you ok?
+- are you okay
+- Do you feel good?
+- how are things going
+- how are things with you?
+- How are things?
+- how are you
+- how are you doing
+- how are you doing this morning
+- how are you feeling
+- how are you today
+- How are you?
+- How is the weather today?
+- What's the weather like?
+- How is the weather?
+- What is the weather at your place?
+- Do you have good weather?
+- Is it raining?
+- What's it like out there?
+- Is it hot or cold?
+- Beautiful day, isn't it?
+- What's the weather forecast?
+- Is it quite breezy outside?
+
+## intent:thank
+- thanks
+- thank you
+- thanks a lot
+- okay, thank you
+- ok thanks
+- oki thanks
+- okay thank you
+- okay thanks
+- thank
+- tnx
+- thnx
+- thank you.
+- thank you a lot 

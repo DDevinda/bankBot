@@ -1,0 +1,123 @@
+2019-08-06 10:50:19,668 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 10:50:25,326 [ERROR]  Unable to start server
+Traceback (most recent call last):
+  File "uvloop/loop.pyx", line 1112, in uvloop.loop.Loop._create_server
+  File "uvloop/handles/streamserver.pyx", line 58, in uvloop.loop.UVStreamServer.listen
+  File "uvloop/handles/streamserver.pyx", line 95, in uvloop.loop.UVStreamServer._fatal_error
+OSError: [Errno 98] Address already in use
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dushan/.local/lib/python3.6/site-packages/sanic/server.py", line 745, in serve
+    http_server = loop.run_until_complete(server_coroutine)
+  File "uvloop/loop.pyx", line 1451, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1684, in create_server
+  File "uvloop/loop.pyx", line 1116, in uvloop.loop.Loop._create_server
+OSError: [Errno 98] error while attempting to bind on address ('0.0.0.0', 5005): address already in use
+2019-08-06 10:50:47,290 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 10:50:51,807 [ERROR]  Unable to start server
+Traceback (most recent call last):
+  File "uvloop/loop.pyx", line 1112, in uvloop.loop.Loop._create_server
+  File "uvloop/handles/streamserver.pyx", line 58, in uvloop.loop.UVStreamServer.listen
+  File "uvloop/handles/streamserver.pyx", line 95, in uvloop.loop.UVStreamServer._fatal_error
+OSError: [Errno 98] Address already in use
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dushan/.local/lib/python3.6/site-packages/sanic/server.py", line 745, in serve
+    http_server = loop.run_until_complete(server_coroutine)
+  File "uvloop/loop.pyx", line 1451, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1684, in create_server
+  File "uvloop/loop.pyx", line 1116, in uvloop.loop.Loop._create_server
+OSError: [Errno 98] error while attempting to bind on address ('0.0.0.0', 5005): address already in use
+2019-08-06 10:51:26,854 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 10:51:36,509 [ERROR]  Unable to start server
+Traceback (most recent call last):
+  File "uvloop/loop.pyx", line 1112, in uvloop.loop.Loop._create_server
+  File "uvloop/handles/streamserver.pyx", line 58, in uvloop.loop.UVStreamServer.listen
+  File "uvloop/handles/streamserver.pyx", line 95, in uvloop.loop.UVStreamServer._fatal_error
+OSError: [Errno 98] Address already in use
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dushan/.local/lib/python3.6/site-packages/sanic/server.py", line 745, in serve
+    http_server = loop.run_until_complete(server_coroutine)
+  File "uvloop/loop.pyx", line 1451, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1684, in create_server
+  File "uvloop/loop.pyx", line 1116, in uvloop.loop.Loop._create_server
+OSError: [Errno 98] error while attempting to bind on address ('0.0.0.0', 5005): address already in use
+2019-08-06 10:52:46,548 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 10:52:51,085 [ERROR]  Unable to start server
+Traceback (most recent call last):
+  File "uvloop/loop.pyx", line 1112, in uvloop.loop.Loop._create_server
+  File "uvloop/handles/streamserver.pyx", line 58, in uvloop.loop.UVStreamServer.listen
+  File "uvloop/handles/streamserver.pyx", line 95, in uvloop.loop.UVStreamServer._fatal_error
+OSError: [Errno 98] Address already in use
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dushan/.local/lib/python3.6/site-packages/sanic/server.py", line 745, in serve
+    http_server = loop.run_until_complete(server_coroutine)
+  File "uvloop/loop.pyx", line 1451, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1684, in create_server
+  File "uvloop/loop.pyx", line 1116, in uvloop.loop.Loop._create_server
+OSError: [Errno 98] error while attempting to bind on address ('0.0.0.0', 5005): address already in use
+2019-08-06 10:53:07,227 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 10:53:41,617 [INFO ]  Killing Sanic server now.
+2019-08-06 10:54:41,478 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 10:58:41,195 [INFO ]  Killing Sanic server now.
+2019-08-06 11:42:57,630 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 11:43:17,372 [ERROR]  Failed to extract slot type with action loan_form
+2019-08-06 11:43:38,184 [INFO ]  Killing Sanic server now.
+2019-08-06 11:43:58,416 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 13:54:46,255 [INFO ]  Killing Sanic server now.
+2019-08-06 13:55:10,732 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 13:55:25,322 [INFO ]  Killing Sanic server now.
+2019-08-06 14:08:50,496 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 14:10:10,384 [INFO ]  Killing Sanic server now.
+2019-08-06 14:12:44,859 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 14:13:16,178 [ERROR]  Failed to extract slot amount with action interestRate_form
+2019-08-06 14:13:22,118 [INFO ]  Killing Sanic server now.
+2019-08-06 14:13:29,257 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 14:29:37,283 [INFO ]  Killing Sanic server now.
+2019-08-06 14:30:37,540 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 14:32:28,197 [INFO ]  Killing Sanic server now.
+2019-08-06 14:32:35,760 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 14:33:27,245 [INFO ]  Killing Sanic server now.
+2019-08-06 14:33:31,260 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 14:33:38,451 [INFO ]  Killing Sanic server now.
+2019-08-06 14:37:15,136 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 15:17:42,369 [INFO ]  Killing Sanic server now.
+2019-08-06 15:18:23,904 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 15:19:06,484 [ERROR]  Failed to extract slot type with action loan_form
+2019-08-06 15:20:16,418 [INFO ]  Killing Sanic server now.
+2019-08-06 15:20:23,556 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 15:21:20,099 [INFO ]  Killing Sanic server now.
+2019-08-06 15:21:27,130 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 15:21:47,513 [INFO ]  Killing Sanic server now.
+2019-08-06 15:21:52,948 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 15:22:10,839 [INFO ]  Killing Sanic server now.
+2019-08-06 15:22:18,947 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 15:22:50,854 [INFO ]  Killing Sanic server now.
+2019-08-06 15:24:07,868 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 15:25:42,071 [INFO ]  Killing Sanic server now.
+2019-08-06 15:26:03,261 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 15:38:34,066 [INFO ]  Killing Sanic server now.
+2019-08-06 15:38:53,286 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 15:39:30,416 [ERROR]  Failed to extract slot time with action interestRate_form
+2019-08-06 15:39:41,911 [INFO ]  Killing Sanic server now.
+2019-08-06 15:39:46,606 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-06 15:40:21,376 [ERROR]  Failed to extract slot time with action interestRate_form
+2019-08-07 11:03:57,827 [INFO ]  Killing Sanic server now.
+2019-08-07 11:04:38,054 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-07 11:05:04,389 [INFO ]  Killing Sanic server now.
+2019-08-07 11:05:09,475 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-07 11:06:00,905 [INFO ]  Killing Sanic server now.
+2019-08-07 12:10:57,451 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-07 12:11:15,389 [INFO ]  Killing Sanic server now.
+2019-08-07 14:51:09,698 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-07 14:51:37,023 [INFO ]  Killing Sanic server now.
